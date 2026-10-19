@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## :loudspeaker: From version 2 - you will find the change log here
 https://github.com/nager/Nager.Date/releases
 
+## Unreleased
+
+### Added
+- Taiwan public holidays
+
 
 ## [2.0.0-alpha] - 2024-03-05
 
